@@ -25,3 +25,6 @@ The dashboard also supports performance monitoring through KPI cards, budget tra
 ### Output
 
 The Meta Ads Performance Dashboard provides comprehensive reports and visual analytics that help advertisers evaluate campaign success, optimize ad spending, improve targeting strategies, and maximize marketing performance across Meta advertising platforms.
+
+<img width="605" height="343" alt="image" src="https://github.com/user-attachments/assets/e395a3bc-42f5-4013-870e-003872c6d7ea" />
+
